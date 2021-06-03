@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rose's Balsamick elixir. This is the most noble medicine that art can produce ; it's incomparable virtues being such, that it gives or restores to nature what's wanting, and takes away what's hurtful;...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29078</idno><idno type="EEBO-CITATION">99888591</idno>
+  <idno type="VID">195816</idno>
+  <idno type="EEBO-PROQUEST">2240903429</idno>
+  
+            <idno type="STC">Wing R1940B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[11]</idno>
+            <idno type="STC">ESTC R231206</idno>
+            <idno type="PROQUEST">ocm99888591</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888591e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195816)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rose's Balsamick elixir. This is the most noble medicine that art can produce ; it's incomparable virtues being such, that it gives or restores to nature what's wanting, and takes away what's hurtful;...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195816:1"/>
+            <pb facs="tcp:195816:1"/>
+            <head>Rose<hi>'s Balsamick</hi> ELIXIR.</head>
+            <p>THis is the most Noble Medicine that Art can produce; it's incomparable Virtues being such, that it gives or restores to Nature what's wanting, and takes away what's hurtful; in so much, that 'tis scarce possible that a temperate Man can want his Health, that makes use of this my Physical Secret. It cures all defects of the <hi>Sto<g ref="char:EOLhyphen"/>mach, Lungs</hi> and <hi>Bowels,</hi> and helps the <hi>Wind</hi> and <hi>Stone Colick</hi> in a most wonderful manner; as also the <hi>Jaundice, Dropsy, Scurvy, Rheumatism,</hi> and all Obstructions of the <hi>Kidneys</hi> and <hi>Ʋreters,</hi> and dissolyes and brings away <hi>Gravel</hi> plentifully: And for Yound Women, it helps all that are troubled with the <hi>Green Sicknss</hi> to a Miracle, bringing to them what's convenient, causing a healthful Countenance and a lively Humour, keeping the Spirits in true Temper. It quickens all the Senses, and gives Life a Vigour even to Old Age: It is so great a Restorative, that for Consumptive Persons, there is not such another Preparation in the whole World; and indeed to speak in few words, if it be taken out of a <hi>Fever,</hi> I know not how any Distemper can do an Injury, it opening and strengthning all the Faculties of the Body, giving immediate Relief in <hi>Stitches</hi> and the <hi>Pleurisy,</hi> and cures all Wounds, both inward and outward. It prevents the <hi>Small Pox,</hi> being taken once or twice a week most infallibly; for no Malignity must or can inhabit where this is present, in Man or Womans Body. And after all, give me leave to inform you of one or two Vir<g ref="char:EOLhyphen"/>tues more, which are these: It cures the <hi>English Frenchify'd,</hi> beyond all the Medicine upon the Face of the Earth; for it removes all Pains of that kind in 3 or 4 Doses in<g ref="char:EOLhyphen"/>fallibly, and so proceeding for a small season, makes any Man tho' as rotten as a Pear, to be as sound as a Sucking Lamb, and who ever trys it on my word, shall have just reason to thank me, as well as pay me. Experience will tell you more than I can say, in the praise of this my <hi>Balsamick Elixir.</hi> It cures the <hi>Palsie,</hi> or shaking of the <hi>Hands</hi> to admiration, and all pains of the Limbs, if it be of a considerable time stand<g ref="char:EOLhyphen"/>ing; and whoever trys it for any of these Causes, will never be without it ready in their House. This <hi>Elixir</hi> is best in the coldest time of the Year to be taken.</p>
+            <p>I have also a Preparation that takes away all <hi>Pimples</hi> and <hi>Redness</hi> of the <hi>Face</hi> to ad<g ref="char:EOLhyphen"/>miration, never failing, and is an extraordinary Medicine for the <hi>Eyes;</hi> it makes the Skin of the Face smooth, and without Wrinkles, and preserves the Complection; it helps all Breakings out, let it proceed from what Cause soever.</p>
+            <p>I likewise help all defects of the <hi>Eyes,</hi> and have an <hi>Eye Liquor</hi> that takes away all imperfections of the Sight, and not only preserves it, but strengthens those Spirits and Parts which give you Sight; and takes away any Spot on the Eye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or twice Dressing.</p>
+            <p>I have also an Infallible Cure for the <hi>Piles, Ʋlcer,</hi> or <hi>Fistula</hi> in the Fu<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ament. I cure all sorts of <hi>Fluxes of Blood</hi> in Man or Woman to admiration: And have a <hi>Plaster</hi> that cures all <hi>Inflamed Breasts,</hi> giving ease to a Miracle; and cures the <hi>Rickets</hi> and <hi>Worms</hi> in Children, with a <hi>Pouder</hi> that purges very finely without Gri<g ref="char:EOLhyphen"/>ping.</p>
+            <p>And as I have set no value on any thing here mentioned, you may be better satisfyed if you please to come or send to me, at my Lodgings at Mr. <hi>Hamptons</hi> a Joyner, in <hi>Hewits-Court</hi> near St. <hi>Martin</hi>'s Church in the <hi>Strand.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
